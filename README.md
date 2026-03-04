@@ -74,10 +74,13 @@ Daniela Glotzbach
 Data Science Bootcamp – TripleTen
 
 ## Project Structure
+
+```
 steel-temperature-prediction
 │
 ├── README.md
 ├── EDA.ipynb
 ├── model_training.ipynb
 └── dataset
+```
 
