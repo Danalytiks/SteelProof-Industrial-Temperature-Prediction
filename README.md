@@ -1,4 +1,4 @@
-# SteelProof-Industrial-Temperature-Prediction
+# Steel Proof-Industrial-Temperature-Prediction
 
 
 ## Project Overview
