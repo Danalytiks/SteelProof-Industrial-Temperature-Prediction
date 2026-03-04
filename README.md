@@ -78,7 +78,7 @@ The final model achieved strong predictive performance and demonstrates how mach
 
 ## Author
 
-Daniela Glotzbach  
+Daniela Costa Glotzbach  
 Data Science Bootcamp – TripleTen  
 Project developed as part of the TripleTen Data Science Program.
 
