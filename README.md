@@ -73,3 +73,5 @@ The final model achieved strong predictive performance and demonstrates how mach
 Daniela Glotzbach  
 Data Science Bootcamp – TripleTen
 
+## Project Structure
+
