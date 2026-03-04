@@ -28,6 +28,14 @@ The project includes an exploratory data analysis (EDA) to understand the datase
 
 ---
 
+## Dataset
+
+The dataset used in this project contains operational data from the steel production process.
+
+Due to size and licensing restrictions, the dataset is not included in this repository.
+
+---
+
 ## Machine Learning Models
 
 Several machine learning algorithms were tested to solve the regression problem:
