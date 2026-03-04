@@ -1,6 +1,5 @@
 # SteelProof-Industrial-Temperature-Prediction
 
-# SteelProof – Industrial Temperature Prediction
 
 ## Project Overview
 
